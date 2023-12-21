@@ -1,80 +1,36 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Oxide Formation 
+description: Oxide formation in concentrated refractory alloy 
+img: assets/img/6_project/clusters.jpg
+importance: 6 
+category: work 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project is led by <a rel="nofollow" href="https://www.linkedin.com/in/vinod-sarky">Vinod Sarky</a>, who is a Master's student in our <a rel="nofollow" href="http://mme.iitm.ac.in/satyesh/index.html">research group</a>.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In our earlier work<d-cite key="Shaikh2020m"></d-cite> we found that addition of HCP elements such as Ti/Zr/Hf leads to improved Pugh's ratio and lower density in concentrated refractory alloys. However, these HCP elements are susceptible to oxygen absorption. In this work we are studying the oxygen behavior in concentrated refractory alloys.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+We found that the first nearest neighbors (1NN) has the largest influence on the stability of oxygen interstitial in concenterated alloys. We studied 24 equiatomic binary alloys made from Ti, Zr, Hf (Group IV), V, Nb, Ta (Group V), Mo, W (Group VI), and Re (Group VII). Through our first-principles DFT calculations, we found that if the oxygen (at the octahedral interstitial position) is surrounded by an element having high susceptiblity for oxidation then the system behave as if the oxygen is in the bulk of that material. It means that the influence of third and fourth nearest neighbors is minimal on the oxygen interstitial stability. This work has been archived<d-cite key="Sarky2023"></d-cite> and is being submitted.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6_project/clusters.jpg" title="Different chemistry and atomic configuration near octahedral interstitial site in a BCC crystal of an A-B alloy" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Different chemistry and atomic configuration near octahedral interstitial site in a BCC crystal of an A-B alloy.
 </div>
 
+The first step in oxidation of an alloy is the generation of a stable oxygen interstitial at an energetically favorable site. If we are able to "engineer" better local chemistry variation in the alloy crystal then the oxygen interstitial can be made unstable in the alloy, i.e., we will be able to design oxidation resistant refractory alloys for high-temperature applications.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Vinod has developed a <a rel="nofollow" href="https://github.com/VinoSarky/NEIGHBOR">code</a> to calcualte the list of nearest neighbors (NN) based on cut-off radius.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<script src="/assets/js/distillpub/template.v2.js"></script>
+<script src="/assets/js/distillpub/transforms.v2.js"></script>
+<script src="/assets/js/distillpub/overrides.js"></script>
+<d-appendix>
+ <d-footnote-list></d-footnote-list>
+ <d-citation-list></d-citation-list>
+</d-appendix>
+<d-bibliography src="/assets/bibliography/library.bib"></d-bibliography>

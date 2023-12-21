@@ -1,81 +1,60 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Methodology Development for Calculating USFE 
+description: Masters Thesis
+img: assets/img/2_project/thumbnail.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Understanding the role of enthalpy of formation in enhancing the intrinsic ductility of equiatomic binary refractory alloys. Here we found that the enthalpy of formation strongly influences the change in $$\gamma_{usfe}$$ over its composition averaged value.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We studied 36 equiatomic binary refractory alloys and found that the enthalpy of formation should be within -120 meV/Atom to +120 meV/Atom for the alloys to be intrinsically ductile. The large enthalpy of formation requirement should be compensated by a sufficiently large entropy.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+The SQS'es are generated using the code given at <a href="/generate_sqs">generate_sqs repository</a>. The E-cut and K-point convergence can be done using the code given at <a href="/scripts">scripts repostiory</a>. The same repository can be used to calculate the lattice parameter.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2_project/workflow.jpg" title="workflow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The workflow developed in this work can be 9x faster than the brute-force calculations.
 </div>
 
+Here we select only the equiatomic shearing interface to calculate the $$\gamma_{usfe}$$ and $$\gamma_s$$ of alloys. The equiatomic shearing interface ensures that the values are inline with the the accurate formula chemistry of the alloy. In some of the earlier works<d-cite key="Hu2021c"></d-cite>, the $$\gamma_{usfe}$$ was being calculated for all the shearing interfaces present in the supercell. If the supercell had 10 slip planes then the final $$\gamma_{usfe}$$ was the average of 9 different $$\gamma_{usfe}$$ values as given in belowe figure.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2_project/shearingInterfaces.jpg" title="Shearing interfaces" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+<div class="caption">
+	The same supercell can give 9 different USFE values depending upon the stoichiometry of that shearing interface.
+</div>
+
+Therefore selecting the shearing interface with formula stoichiometry can give the correct $$\gamma_{usfe}$$ 9x faster than the earlier method.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/2_project/shearings.jpg" title="shearing method" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The same supercell can be sheared in 4 different directions to give 4 different USFE values.
+</div>
+
+The shearing interface with correct stoichiometry can be sheared in 4 different directions leading to 4 different $$\gamma_{usfe}$$ values. However, we select the $$\gamma_{usfe}$$ corresponding to the lowest energy difference between pristine and sheared supercell. This ensures that the large change in stoichiometry does not affect our final $$\gamma_{usfe}$$ and $$\gamma_s$$ values. This methodology also helps us quantify the errors associated with the $$\gamma_{usfe}$$ value due to stoichiometry change after shearing.
+
+Here we showed that the widely held notion of reduction in valence electron concentration (VEC), leading to improvement in ductility of refractory alloys may not be applicable everywhere. We found that it is the large decrease in the $$\gamma_{usfe}$$ which is leading to improvement in intrinsic ductility of refractory alloys. This observation is supported by the role of low valency Ti/Zr/Hf as well as high valency Re in improving the ductility of refractory alloys.
+
+I had presented this work at the <a rel="nofollow" href="https://calphad.org/CALPHAD-2022-home">CALPHAD-2022</a> conference in Sweden. This work has been published<d-cite key="Shaikh2023a"></d-cite> in the Journal of Alloys and Compounds.
+
+<script src="/assets/js/distillpub/template.v2.js"></script>
+<script src="/assets/js/distillpub/transforms.v2.js"></script>
+<script src="/assets/js/distillpub/overrides.js"></script>
+<d-appendix>
+ <d-footnote-list></d-footnote-list>
+ <d-citation-list></d-citation-list>
+</d-appendix>
+<d-bibliography src="/assets/bibliography/library.bib"></d-bibliography>

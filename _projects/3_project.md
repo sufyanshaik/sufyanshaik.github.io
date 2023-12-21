@@ -1,81 +1,56 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Refractory High Entropy Alloys for High Temperature Structural Applications
+description: PI - Prof. B. S. Murty (IIT Madras)
+img: assets/img/3_project/thumbnail.jpg
 importance: 3
 category: work
 ---
+<!-- <d-cite key="gregor2015draw"></d-cite> FOR CITING LITERATURE FORM BIBLIOGRAPHY KEY CAN BE ANY THING FROM BIBLIOGRAPHY SIMILAR TO NORMAL LATEX BIBFILE-->
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project was sponsored by the United States Air Force Research Laboratory with Prof. B. S. Murty of the Indian Institute of Technology Madras as PI. Dr. Lavanya Raman (then PhD Research Scholar with Prof. Murty) and I together worked on this project.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I studied 126 quaternary and 126 quinary equiatomic refractory high entropy alloys (RHEA) made from Group IV (Ti, Zr, Hf), Group V (V, Nb, Ta), and Group VI (Cr, Mo, W) elements. We used Rule-of-mixtures (ROM) technique to calculate liquidus temperature, density (ρ), Young’s modulus (E), % atomic size difference (δ), valence electron concentration (VEC), and specific heat at constant pressure and at 1273 K (Cp). CALPHAD technique is used (thanks to V. S. Hariharan) to predict the number of phases formed at 298 K, ρ, and liquidus temperature.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+We found that the ROM calculated densities match perfectly with CALPHAD values. Densities and E are directly proportional to the VEC and liquidus temperature of the alloys. Ti, Zr, and Hf are ductilizing the alloys and making them light; whereas Cr, Mo and W are reducing the alloys’ ductility and making them heavy. For quinary RHEAs, Cp showed six distinct groups with δ, but a similar trend was not observed in quaternary RHEA. Here we used scatter matrix methodology to screen a large number of alloys based on various properties.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3_project/4RHEA.jpg" title="Scatter matrix for quaternary" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Scatter matrix plot of quaternary RHEA.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3_project/5RHEA.jpg" title="Scatter matrix for quinaries" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+<div class="caption">
+    Scatter matrix plot of quinary RHEA.
+</div>
+
+The numbers in blue in the above figures show the <a rel="nofollow" href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient">Pearson's correlation coefficient</a>. The 6 distinct groups in δ vs. Cp graph of quinary RHEA needs further research. Some of the findings from this work were later proved by experimental and/or DFT simulations by different researchers. The addition of HCP elements was shown to increase the Pugh's ratio<d-cite key="Pugh1954"></d-cite> of alloys indicating that HCP elemental addition leads to improvement in the ductility of RHEA. However, Pugh's ratio is an empirical parameter borrowed from FCC pure metals in 1954. The applicability of Pugh's ratio to BCC systems remains to be verified.
+
+This work resulted in a publication<d-cite key="Shaikh2020m"></d-cite> in the Intermetallics journal and an AFRL project report<d-cite key="AFRL2022"></d-cite>.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3_project/poster.jpg" title="Winning poster at the 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Winning poster at the 3rd International Workshop on High Entropy Materials, Indian Institute of Technology Kanpur.
+</div>
+
+
+<script src="/assets/js/distillpub/template.v2.js"></script>
+<script src="/assets/js/distillpub/transforms.v2.js"></script>
+<script src="/assets/js/distillpub/overrides.js"></script>
+<d-appendix>
+ <d-footnote-list></d-footnote-list>
+ <d-citation-list></d-citation-list>
+</d-appendix>
+<d-bibliography src="/assets/bibliography/library.bib"></d-bibliography>
