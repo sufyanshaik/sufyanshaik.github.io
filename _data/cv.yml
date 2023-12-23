@@ -1,12 +1,12 @@
-#- title: General Information
-#  type: map
-#  contents:
-#    - name: Full Name
-#      value: Sufyan M. Shaikh
-#    - name: Date of Birth
-#      value: 25th March
-#    - name: Languages
-#      value: English, Hindi, Marathi, Urdu
+- title: General Information
+  type: time_table 
+  contents:
+    - name: Full Name
+      value: Sufyan M. Shaikh
+    - name: Date of Birth
+      value: 25th March
+    - name: Languages
+      value: English, Hindi, Marathi, Urdu
 
 - title: Education
   type: time_table
@@ -63,7 +63,7 @@
       institution: Bekaert India Technical Center, Maharashtra, India
       year: 2015 - 2017
       description:
-        - Managed Materials Lab team of 4 analysists with annual budget of INR 2.2M.
+        - Managed Materials Lab team of 4 analysts with annual budget of INR 2.2M.
         - Head of the SEM-EDS and Advanced Metallography facility in India.
         - Collaborated with teams from 5 countries on multiple R&D projects.
         - Successfully renewed ISO/TS16949 (IATF 16949) certification of the Materials Lab.
