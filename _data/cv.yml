@@ -1,12 +1,12 @@
-- title: General Information
-  type: time_table 
-  contents:
-    - name: Full Name
-      value: Sufyan M. Shaikh
-    - name: Date of Birth
-      value: 25th March
-    - name: Languages
-      value: English, Hindi, Marathi, Urdu
+#- title: General Information
+#  type: map 
+#  contents:
+#    - name: Full Name
+#      value: Sufyan M. Shaikh
+#    - name: Date of Birth
+#      value: 25th March
+#    - name: Languages
+#      value: English, Hindi, Marathi, Urdu
 
 - title: Education
   type: time_table
