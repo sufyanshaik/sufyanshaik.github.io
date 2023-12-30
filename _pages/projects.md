@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /
+permalink: /projects/
 description: Collection of my past, present, and future projects. 
 nav: true 
 nav_order: 2
