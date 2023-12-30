@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /
 description: Collection of my past, present, and future projects. 
-nav: true 
-nav_order: 2
+#nav: true 
+#nav_order: 2
 display_categories: [work]
 horizontal: false
 ---
