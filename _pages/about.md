@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /about/
 nav: true
-nav_order: 5 
+nav_order: 4 
 
 profile:
   align: right
