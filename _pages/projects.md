@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /
 description: Collection of my past, present, and future projects. 
-#nav: true 
-#nav_order: 2
+nav: true 
+nav_order: 1 
 display_categories: [work]
 horizontal: false
 ---
