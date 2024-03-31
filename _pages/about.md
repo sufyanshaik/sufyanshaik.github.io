@@ -10,10 +10,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a rel="nofollow" href="https://goo.gl/maps/QLeRZgQpXAecAYJb7">New Academic Complex - 106</a></p>
-    <p>Metallurgical and Materials Engineering</p>
-    <p>Indian Institute of Technology Madras</p>
-    <p>Chennai, Tamil Nadu 600036</p>
+    #<p><a rel="nofollow" href="https://goo.gl/maps/QLeRZgQpXAecAYJb7">New Academic Complex - 106</a></p>
+    #<p>Metallurgical and Materials Engineering</p>
+    #<p>Indian Institute of Technology Madras</p>
+    #<p>Chennai, Tamil Nadu 600036</p>
+    <p>Technology Development</p>
+    <p>Advanced Modeling</p>
+    <p>Micron Technology, Inc.</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
