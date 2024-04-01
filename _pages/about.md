@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-My name is Sufyan and I am a Senior Engineer at Micron Technology, Inc. I am part of Technology Development - Advanced Modeling team at Micron where I help Micron design better semiconductor memory using Advanced Modeling techniques. 
+My name is Sufyan and I am a Senior Engineer at Micron Technology, Inc. I am part of Technology Development - Advanced Modeling team at Micron where I help R&D teams and Fab teams design better semiconductor memory chips using Advanced Modeling techniques.
 
 I have extensive experience in various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), and <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation) to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals and alloys. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
