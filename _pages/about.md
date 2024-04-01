@@ -60,7 +60,7 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time.
 
-I would be happy to present my work to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
+I would be happy to present my PhD research to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
 *Testimonials from some of my colleagues:*
 <div class="row justify-content-sm-center">
