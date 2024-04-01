@@ -43,13 +43,21 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Engineer, Technology Development - Advanced Modeling
+      institution: Micron Technology, Hyderabad, India
+      year: 2024
+      description:
+	- Helped teams design better semiconductor memory chips using Advanced FEA simulations.
+	- Collaborated with international teams and fabs on various R&D projects.
+        - Developed Design of Experiments (DOE) scheme for FEA of semiconductor memory products. 
+
     - title: Technology Development Advanced Modeling Intern
       institution: Micron Technology, Hyderabad, India
       year: 2023
       description:
         - Developed 24 codes and bash scripts for finite element analysis of stress development during semiconductor manufacturing process.
         - Benchmarked the developed FEA code against the commercial FEA software.
-        - Developed Design of Experiments (DOE) scheme for FEA stress analysis of silicon wafers during semiconductor manufacturing process. 
+        - Developed Design of Experiments (DOE) scheme for FEA-based stress simulations of silicon wafers during semiconductor manufacturing process. 
     
     - title: Metals and Modeling Intern
       institution: General Electric Global Research Center, Bengaluru, India
