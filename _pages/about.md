@@ -10,9 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Senior Engineer,</p>
-    <p>Technology Development,</p>
     <p>Advanced Modeling,</p>
+    <p>Technology Development,</p>
     <p>Micron Technology, Inc.</p>
 
 news: false  # includes a list of news items
@@ -22,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-My name is Sufyan and I am a Senior Engineer at Micron Technology, Inc. I am part of Technology Development - Advanced Modeling team at Micron where I help R&D teams and Fab teams design better semiconductor memory chips using Advanced Modeling techniques.
+My name is Sufyan and I am part of Technology Development team at Micron Technology Inc., where I help R&D teams and Fab teams design better semiconductor memory chips using Advanced Modeling techniques.
 
 I have extensive experience in various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), and <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation) to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals and alloys. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
 I have 8 years of diverse experience in Problem-solving, Stakeholder engagement through active collaborations, <a href="/projects/">R&D Project Management</a>, Team Management, Industrial & Academic Research, and Cross-functional Collaborations. I am experienced in solving business problems using the First-principles approach by discussing complex ideas in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
 
-**My research has been recognized through 6 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles Thinking and Problem Solving.
+**My research has been recognized through 6 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles method of Problem Solving.
 
 I did my Bachelors in Metallurgical Engineering from COEP Technological University (previously known as Government College of Engineering Pune-COEP), Maharshtra, India in 2015, where I was awarded the **Government of India - Ministry of Steel Scholarship of ₹120,000 (0.12 Million Indian Rupees) for academic excellence.**
 
@@ -60,7 +59,7 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time.
 
-I would be happy to present my PhD research to your team and discuss how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
+I would be happy to discuss my PhD research with your team on how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
 *Testimonials from some of my colleagues:*
 <div class="row justify-content-sm-center">
