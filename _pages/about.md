@@ -31,6 +31,15 @@ I have 8 years of diverse experience in Problem-solving, Stakeholder engagement 
 
 I did my Bachelors in Metallurgical Engineering from COEP Technological University (previously known as Government College of Engineering Pune-COEP), Maharshtra, India in 2015, where I was awarded the **Government of India - Ministry of Steel Scholarship of ₹120,000 (0.12 Million Indian Rupees) for academic excellence.**
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/joinedMicron.jpeg" title="World Map" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    I help teams at Micron design some of the world's most advanced memory chips.
+</div>
+
 I did my Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology Madras (IIT Madras). I have developed alloys for high-temperature structural applications using Ab-initio Atomistic Modeling for my PhD. I have developed a refractory metal based alternative to superalloy using First-principles Atomistic Modeling that can have better high-temperature properties than the current state-of-the-art Ni-based superalloys. My PhD thesis was on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://mme.iitm.ac.in/murty/bsmurty">Prof. B. S. Murty</a> (Director - Indian Institute of Technology Hyderabad) and <a rel="nofollow"  href="https://mme.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
 
 Before joining IIT Madras, I was heading the Materials Lab at Bekaert India Technical Centre in Pune, Maharashtra, India. At Bekaert, I led a team of 4 Microscopists and Metallographers in the Metallurgical Investigations of tire cords, circlips, automotive springs, and wire rods using Advanced Metallography and Scanning Electron Microscope equipped with Energy Dispersive Spectroscopy (SEM-EDS). I have been trained in steel wire microstructural analysis at Bekaert’s global R&D headquarters in Belgium and Asian R&D headquarters in China. I have also been trained in the wire drawing and welding processes in India, Czech Republic, and Indonesia. My internal customer portfolio included Bekaert’s manufacturing plants and R&D teams from India, USA, Europe, Indonesia, Brazil, and Malaysia.
