@@ -75,7 +75,7 @@ I believe the next revolution in Materials Development will happen at the conflu
     Graduation photo at IIT Madras. 
 </div>
 
-I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, journaling, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time. From Jagjit Singh to Eminem and Nusrat Fateh Ali Khan to Badshah, I listen to all type of music.
+I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, journaling, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time. From Jagjit Singh to Eminem and Nusrat Fateh Ali Khan to Badshah, I listen to all genre of music.
 
 I would be happy to discuss my PhD research with your team on how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
