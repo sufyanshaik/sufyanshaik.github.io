@@ -32,9 +32,9 @@ I have 8 years of diverse experience in Problem-solving, Stakeholder engagement 
 - Developed 3 new etchant chemistries.
 - Designed an "Alloy design stage gate" that analyzed 252 alloys on 6 parameters.
 - Developed a bottom-up methodology for alloy design using atomistic modeling of 44 refractory metals and alloys.
-- Discovered the role of HCP elements in make deformable refractory alloys for aerospace applications.
+- Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
 
-I am adept at discussing complex/abstract ideas and highly technical concepts in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
+I am adept at brainstorming on complex/abstract ideas and highly technical concepts in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
 
 **My research has been recognized through 6 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles method of Problem Solving.
 
@@ -75,7 +75,7 @@ I believe the next revolution in Materials Development will happen at the conflu
     Graduation photo at IIT Madras. 
 </div>
 
-I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time.
+I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, journaling, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time. From Jagjit Singh to Eminem and Nusrat Fateh Ali Khan to Badshah, I listen to all type of music.
 
 I would be happy to discuss my PhD research with your team on how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
