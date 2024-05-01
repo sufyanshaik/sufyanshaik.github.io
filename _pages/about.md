@@ -34,7 +34,7 @@ I have 8 years of diverse experience in Problem-solving, Stakeholder engagement 
 - Developed a bottom-up methodology for alloy design using atomistic modeling of 44 refractory metals and alloys.
 - Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
 
-I am adept at brainstorming on complex/abstract ideas and highly technical concepts in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
+I routeinly brainstorm on complex/abstract ideas and highly technical concepts in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
 
 **My research has been recognized through 6 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles method of Problem Solving.
 
