@@ -22,11 +22,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-My name is Sufyan and I am a member of Technology Development team at Micron Technology Inc., where I help R&D teams and Fab teams design better semiconductor memory chips using Advanced Modeling techniques.
+My name is Sufyan and I am a member of Technology Development team at Micron Technology Inc., where I help R&D teams and Fab teams design better semiconductor memory chips using Advanced Modeling techniques. At Micron, I build Advanced Models of semiconductor memory products such as High Bandwidth Memory (HBM), NAND, and DRAM. I help teams from R&D, FE, BE, Assembly, Packaging, and Testing to develop some of the world's most advanced memory products.
 
 I have extensive experience in various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation), and TCAD software package to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals, alloys, and semiconductor devices. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
 I have 8 years of diverse experience in Problem-solving, Stakeholder engagement through active collaborations, <a href="/projects/">R&D Project Management</a>, Team Management, Industrial & Academic Research, and Cross-functional Collaborations. I am experienced in solving complex business problems using the First-principles Problem-solving approach. I love breaking down highly techincal problems into smaller chunks and then solving them. Using this approach, I have:
+- Developed models that helped wafer savings and time savings resulting in faster product development cycles.
 - Developed 3x cheaper domestic alternative to international supplier using Cost Benefit Analysis.
 - Developed a 9x faster atomistic modeling workflow.
 - Optimized metallography sample preparation process resulting in 22% time-savings.
@@ -35,7 +36,7 @@ I have 8 years of diverse experience in Problem-solving, Stakeholder engagement 
 - Developed a bottom-up methodology for alloy design using atomistic modeling of 44 refractory metals and alloys.
 - Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
 
-I routeinly brainstorm on complex/abstract ideas and highly technical concepts in simple terms with Customers, Suppliers, Internal Teams, and Executive Management.
+I routeinly brainstorm on complex ideas and highly technical concepts in simple terms with Customers, Internal Teams, and Executive Management.
 
 **My research has been recognized through 7 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles method of Problem Solving.
 
@@ -78,7 +79,7 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, journaling, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time. From Jagjit Singh to Eminem and Nusrat Fateh Ali Khan to Badshah, I listen to all genre of music.
 
-I would be happy to discuss my PhD research with your team on how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
+Feel free to reach out to me and I would be happy to discuss my PhD research with your team on how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
 
 *Testimonials from some of my colleagues:*
 <div class="row justify-content-sm-center">
