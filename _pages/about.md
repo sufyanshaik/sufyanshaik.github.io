@@ -44,7 +44,7 @@ I routeinly brainstorm on complex ideas and highly technical concepts in simple 
     </div>
 </div>
 <div class="caption">
-    Culture Champion Award from the CEO of Micron Technology, Inc. Sanjay Mehrotra.
+    Culture Champion Award from the CEO of Micron Technology, Inc. Sanjay Mehrotra.(I am wearing white shoes)
 </div>
 
 **My research has been recognized through 7 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles method of Problem Solving.
