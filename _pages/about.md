@@ -40,7 +40,7 @@ I routeinly brainstorm on complex ideas and highly technical concepts in simple 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Award_CultureChampion.jpeg" title="World Map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Award_CultureChampion.jpg" title="Culture Champion Award from the CEO Sanjay Mehrotra" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
