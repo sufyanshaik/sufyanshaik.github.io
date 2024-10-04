@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-My name is Sufyan and I am a member of Technology Development team at Micron Technology Inc., where I help R&D teams and Fab teams design better semiconductor memory chips using Advanced Modeling techniques. At Micron, I build Advanced Models of semiconductor memory products such as High Bandwidth Memory (HBM), NAND, and DRAM. I help teams from R&D, FE, BE, Assembly, Packaging, and Testing to develop some of the world's most advanced memory products.
+My name is Sufyan and I am a member of Technology Development team at Micron Technology Inc., where I help various teams to design better semiconductor memory chips using Advanced Modeling techniques. At Micron, I build Advanced Models of semiconductor memory products such as High Bandwidth Memory (HBM), NAND, and DRAM. I help teams from Front End, Back End, Assembly, Packaging, and Testing to develop some of the world's most advanced memory products.
 
 I have extensive experience in various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation), and TCAD software package to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals, alloys, and semiconductor devices. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
@@ -36,7 +36,7 @@ I have 8 years of diverse experience in Problem-solving, Stakeholder engagement 
 - Developed a bottom-up methodology for alloy design using atomistic modeling of 44 refractory metals and alloys.
 - Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
 
-I routeinly brainstorm on complex ideas and highly technical concepts in simple terms with Customers, Internal Teams, and Executive Management.
+I routeinly brainstorm on complex ideas and highly technical concepts in simple terms with Customers, Global Teams, and Executive Management.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
