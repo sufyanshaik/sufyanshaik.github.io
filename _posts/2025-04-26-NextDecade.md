@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A decade Wiser 
+title:  A decade older. A decade wiser. 
 date:   2025-04-27 16:40:16
 description: a decade wiser, looking forward to the next decade
 tags: personal life career 
