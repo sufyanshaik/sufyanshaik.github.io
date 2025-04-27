@@ -22,16 +22,17 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-My name is Sufyan and I am a member of Technology Development team at Micron Technology Inc., where I help various teams to design better semiconductor memory chips using Advanced Modeling techniques. At Micron, I build Advanced Models of semiconductor memory products such as High Bandwidth Memory (HBM), NAND, and DRAM. I help teams from Front End, Back End, Assembly, Packaging, and Testing to develop some of the world's most advanced memory products.
+My name is Sufyan and I am a member of Technology Development team at Micron Technology Inc., where I help various teams around the world to design and manufacture better semiconductor memory chips using Advanced Modeling techniques. At Micron, I solve problems using Advanced Models of semiconductor memory products such as High Bandwidth Memory (HBM), NAND, and DRAM. I help teams from Front End, Back End, Assembly, Packaging, and Testing to develop some of the world's most advanced memory products.
 
 I have extensive experience in various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation), and TCAD software package to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals, alloys, and semiconductor devices. I enjoy automating routine tasks using Shell scripting/programming, which saves time and effort.
 
 I have more than 10 years of diverse experience in Problem-solving, Stakeholder engagement through active collaborations, <a href="/">R&D Project Management</a>, Team Management, Industrial & Academic Research, and Cross-functional Collaborations. I am experienced in solving complex business problems using the First-principles Problem-solving approach. I love breaking down highly techincal problems into smaller chunks and then solving them. Using this approach, I have:
+- Developed a physics-based model that predicted a particula physical phenomenon **5 months in advance**, even before anything was built on silicon.
 - Developed models that helped wafer savings and time savings resulting in faster product development cycles.
-- Developed 3x cheaper domestic alternative to international supplier using Cost Benefit Analysis.
-- Developed a 9x faster atomistic modeling workflow.
+- Developed **3x cheaper** domestic alternative to international supplier using Cost Benefit Analysis.
+- Developed a **9x faster** atomistic modeling workflow.
 - Optimized metallography sample preparation process resulting in 22% time-savings.
-- Developed 3 new etchant chemistries.
+- Developed **3 new** etchant chemistries.
 - Designed an "Alloy design stage gate" that analyzed 252 alloys on 6 parameters.
 - Developed a bottom-up methodology for alloy design using atomistic modeling of 44 refractory metals and alloys.
 - Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
