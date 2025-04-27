@@ -5,6 +5,7 @@ date:   2025-04-27 16:40:16
 description: a decade wiser, looking forward to the next decade
 tags: personal life career 
 categories: blog-posts
+featured: true
 ---
 As I enter the next decade, I look back to see what led me here. Was it the constant quest for success? Was it the never-ending race for validation? Or was it the pursuit of happiness?
 As I enter the next decade of my life, I have started realizing the importance of walking slowly. My 20s were quite fast. I changed 4 cities, from Pune to Chennai to Bangalore to Hyderabad. All in about 7 years. Got married. Hunted for a rental apartment, traveled to 2 countries, ran pillar to post searching for a burial ground for my late grandmother, and so on. Life happened all when I was busy working on my PhD research work.
@@ -14,6 +15,10 @@ In all this chaos, one thing had remained constant, the quest to excel at one th
 As I reflect on my previous decade on this earth, I see satisfaction, happiness, contentment, and a little bit of tummy . Among all of this chaos, I traveled, got married, graduated with a Masters and a PhD, and spent a good amount of time at a lush green campus of IIT Madras. I saw how my dreams became a reality and their value diminishing with time. Maybe that’s how fickle the human mind is designed to be. Our needs and wants are always in conflict with each other. Very few have their wants kept in check. Sometimes, success does not feel as good as it is meant to be. Things look very black and white from afar. It is only when you come closer you start to see the shades of grey in life. The sacrifices of today look routine from tomorrow. The struggles of today look like wins from tomorrow.
 
 I write this post with a deep sense of gratitude for the privileges that I have had. The resources which are/were at my disposal. The benefit of hindsight which I have gotten after spending time with people from different backgrounds at Bekaert, GE Research, Micron Technology, and IIT Madras. The decisions of today need not necessarily dictate our distant futures. The last-minute admission at IIT Madras, the conversion from a Masters to a dual degree program, everything looks so well-planned in hindsight. But there is a dash of spontaneity in all of these events in my life.
+
+<blockquote>
+You miss 100% of the shots you don't take. -Wayne Gretzky
+</blockquote>
 
 Success in Life. I have always been in dilemma about success in life. What is success in life when, in the end, you are going to die and cannot take any of the so-called “worldly possessions” in your afterlife? A life well-lived, a life well-spent on friends and family that in itself is a success. At best, your grandchildren will remember you if you were a famous person. If you were more famous, maybe you would be remembered for 3-4 generations in the future also. Our obsession with leaving a legacy behind needs to go away. Our well-mannered offspring…aren’t they the best legacy that can be left for future generations? Why are we obsessed with the thought of being remembered? What purpose does it serve to remain in the memories of the coming generations? Does it help you in your afterlife? I do not know. One thing I do know is that life is a roller-coaster ride. Some days, you are at the top; some days, you are at the bottom. The only thing that remains constant is your perception of whether you want to stay sad when you are at the lowest point in the ride, or you want to look forward to the next highest point on the ride? The choice is always ours.
 
@@ -27,6 +32,5 @@ Going back to the topic of risks in life…calculated risks are the cornerstone 
 Whatever the case may be, never stop playing.
 
 <blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
+We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. —Anais Nin
 </blockquote>
