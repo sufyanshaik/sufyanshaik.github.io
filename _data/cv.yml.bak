@@ -8,6 +8,38 @@
     - name: Languages
       value: English, Hindi, Marathi, Urdu
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD - Metallurgical and Materials Engineering
+      institution: Indian Insitute of Technology Madras, Tamil Nadu, India
+      year: 2023
+      description:
+        - Intrinsically ductile refractory high entropy alloy design using density functional theory (ab-initio atomistic modeling). 
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
+    - title: Master of Technology - Metallurgical and Materials Engineering
+      institution: Indian Insitute of Technology Madras, Tamil Nadu, India
+      year: 2023
+      description:
+        - Unraveled the role of enthalpy of formation in improving the intrinsic ductility of refractory alloys.
+#        - Description 1.
+#        - Description 2.
+    
+    - title: Bachelor of Technology - Metallurgical Engineering
+      institution: Government College of Eningginering Pune, Maharashtra, India
+      year: 2015
+      description:
+        - Surface Mechanical Attrition Treatment (SMAT) of Al6061-T6 alloy.
+        - Surface alloying of Al6061-T6 with Si using SMAT. 
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
 - title: Experience
   type: time_table
   contents:
@@ -51,38 +83,6 @@
         - Systematic study of metallogrpahic sample preparation process for stainless steel.
         - Optimized sample preparation process leading to 22% time savings.
         - Developed 2 etchants and etching techniques.
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD - Metallurgical and Materials Engineering
-      institution: Indian Insitute of Technology Madras, Tamil Nadu, India
-      year: 2023
-      description:
-        - Intrinsically ductile refractory high entropy alloy design using density functional theory (ab-initio atomistic modeling). 
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
-
-    - title: Master of Technology - Metallurgical and Materials Engineering
-      institution: Indian Insitute of Technology Madras, Tamil Nadu, India
-      year: 2023
-      description:
-        - Unraveled the role of enthalpy of formation in improving the intrinsic ductility of refractory alloys.
-#        - Description 1.
-#        - Description 2.
-    
-    - title: Bachelor of Technology - Metallurgical Engineering
-      institution: Government College of Eningginering Pune, Maharashtra, India
-      year: 2015
-      description:
-        - Surface Mechanical Attrition Treatment (SMAT) of Al6061-T6 alloy.
-        - Surface alloying of Al6061-T6 with Si using SMAT. 
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
 
 #- title: Open Source Projects
 #  type: time_table
