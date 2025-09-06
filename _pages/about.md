@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Senior Engineer,</p>
-    <p>Advanced Modeling,</p>
+    <p>Advanced Modeling and AI Solutions,</p>
     <p>Technology Development,</p>
     <p>Micron Technology, Inc.</p>
 
