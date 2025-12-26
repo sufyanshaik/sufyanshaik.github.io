@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Eventful Year 2025
-date: 2025-12-26 16:47:16
+date: 2025-12-20 16:47:16
 description: An eventful year. looking forward to the next year.
 tags: personal life career
 categories: blog-posts
@@ -29,7 +29,7 @@ This year also brought reconnection. I met up with a few old friends after years
 </div>
 
 Professional Wins: Promotion, Taiwan, and Chip-Making Magic
-On the work front, I celebrated a well-deserved promotion at Micron, where I've now completed two full years. The real highlight? Traveling to Taiwan to deploy a critical model in the Fab. Deploying it live, surrounded by the hum of cutting-edge manufacturing, was exhilarating.
+On the work front, I celebrated a well-deserved promotion at Micron, where I've now completed two full years. The real highlight? Traveling to Taiwan to deploy a critical model in the Fab. Deploying it live, surrounded by the hum of cutting-edge manufacturing, was exhilarating. More on Taiwan trip later.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
