@@ -5,7 +5,7 @@ date:   2025-04-27 16:40:16
 description: a decade wiser, looking forward to the next decade
 tags: personal life career 
 categories: blog-posts
-featured: true
+featured: false 
 ---
 
 As I enter the next decade, I look back to see what led me here. Was it the constant quest for success? Was it the never-ending race for validation? Or was it the pursuit of happiness?
