@@ -16,6 +16,7 @@ Life came full circle when I became a father. Holding my newborn for the first t
 
 This year also brought reconnection. I met up with a few old friends after years apart, sharing laughs and stories that bridged the gap. And just like that, I hit the two-year mark since graduating from IIT Madras. Time flies when you're enjoying life and career.
 
+<!--
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1" %}
@@ -30,8 +31,8 @@ This year also brought reconnection. I met up with a few old friends after years
 <div class="caption">
     Photo on left is when I met my old friend Dr. Ashok at Singapore because I had a short overnight stay at "little India" in Singapore as my flight was delayed. Photo on right top is with few of my colleagues and collaborators from Taiwan. Photo on right bottom is at National Taichung Museum of Fine Arts.
 </div>
+-->
 
-<!--
 <div class="row mt-3 align-items-stretch h-100">
   <div class="col-sm-6 d-flex align-items-stretch">
     {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1 w-100 object-fit-cover" %}
@@ -49,7 +50,9 @@ This year also brought reconnection. I met up with a few old friends after years
     </div>
   </div>
 </div>
--->
+<div class="caption">
+    Photo on left is when I met my old friend Dr. Ashok at Singapore because I had a short overnight stay at "little India" in Singapore as my flight was delayed. Photo on right top is with few of my colleagues and collaborators from Taiwan. Photo on right bottom is at National Taichung Museum of Fine Arts.
+</div>
 
 Professional Wins: Promotion, Taiwan, and Chip-Making Magic
 On the work front, I celebrated a well-deserved promotion at Micron, where I've now completed two full years. The real highlight? Traveling to Taiwan to deploy a critical model in the Fab. Deploying it live in the Fab, surrounded by the hum of cutting-edge manufacturing, was exhilarating. More on Taiwan trip later.
