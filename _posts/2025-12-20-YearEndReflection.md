@@ -16,23 +16,6 @@ Life came full circle when I became a father. Holding my newborn for the first t
 
 This year also brought reconnection. I met up with a few old friends after years apart, sharing laughs and stories that bridged the gap. And just like that, I hit the two-year mark since graduating from IIT Madras. Time flies when you're enjoying life and career.
 
-<!--
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Micron_APTD_Taiwan.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/MuseumFineArts.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Photo on left is when I met my old friend Dr. Ashok at Singapore because I had a short overnight stay at "little India" in Singapore as my flight was delayed. Photo on right top is with few of my colleagues and collaborators from Taiwan. Photo on right bottom is at National Taichung Museum of Fine Arts.
-</div>
--->
-
 <div class="row mt-3 align-items-stretch g-3">
   <div class="col-md-6 pe-md-1">
     {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1 h-100 w-100 object-fit-cover" %}
