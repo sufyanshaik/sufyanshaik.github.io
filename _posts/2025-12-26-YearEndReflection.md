@@ -4,7 +4,7 @@ title: 2025-An Eventful Year.
 date: 2025-12-26 16:47:16
 description: An eventful year. looking forward to the next year. 
 tags: personal life career 
-categories: blog-posts
+categories: personal 
 featured: true
 ---
 
