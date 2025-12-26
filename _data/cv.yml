@@ -11,9 +11,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Staff Engineer, Advanced Modeling & AI Solutions 
+      institution: Micron Technology, Hyderabad, India
+      year: 2025-Present
+      description:
+        - Driving high-impact projects in APAC region for High Bandwidth Memory product.
+        - Delivered an advanced model in Taiwan Fab that helps live wafer monitoring.
+        - Develop innovative models that give insights on failure modes before they become bottleneck to teams in Boise, Japan, Taiwan, India.
+    
     - title: Senior Engineer, Advanced Modeling & AI Solutions 
       institution: Micron Technology, Hyderabad, India
-      year: 2023-Present
+      year: 2023-2025
       description:
         - Helped teams design better semiconductor memory chips using Advanced FEA simulations.
         - Collaborated with international teams and fabs on various RnD projects.
