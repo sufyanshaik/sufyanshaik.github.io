@@ -8,10 +8,10 @@ categories: blog-posts
 featured: true
 ---
 
-2025: A Year of Milestones, Fatherhood, and Resilience
+2025: A Year of Milestones, Fatherhood, and Resilience  
 What a whirlwind 2025 has been! From personal joys to professional triumphs, this year tested me in ways I never expected—but it also delivered some of my proudest moments. As I wrap up the year, here's a quick recap of the highlights and the big lesson it taught me: resilience in the face of uncertainty.
 
-The Personal Highs: Fatherhood and Full Circle Moments
+The Personal Highs: Fatherhood and Full Circle Moments  
 Life came full circle when I became a father. Holding my newborn for the first time was indescribable—a mix of pure joy, terror, and overwhelming love. It has redefined my priorities and given me a new perspective on what truly matters.
 
 This year also brought reconnection. I met up with a few old friends after years apart, sharing laughs and stories that bridged the gap. And just like that, I hit the two-year mark since graduating from IIT Madras. Time flies when you're enjoying life and career.
@@ -33,7 +33,7 @@ This year also brought reconnection. I met up with a few old friends after years
     Photo on left is when I met my old friend Dr. Ashok at Singapore because I had a short overnight stay at "little India" in Singapore as my flight was delayed. Photo on right top is with few of my colleagues and collaborators from Taiwan. Photo on right bottom is at National Taichung Museum of Fine Arts.
 </div>
 
-Professional Wins: Promotion, Taiwan, and Chip-Making Magic
+Professional Wins: Promotion, Taiwan, and Chip-Making Magic  
 On the work front, I celebrated a well-deserved promotion at Micron, where I've now completed two full years. The real highlight? Traveling to Taiwan to deploy a critical model in the Fab. Deploying it live in the Fab, surrounded by the hum of cutting-edge manufacturing, was exhilarating. More on Taiwan trip later.
 
 <div class="row mt-3">
@@ -64,8 +64,8 @@ Through it all—new parenthood, high-stakes projects, and life's curveballs—2
 Here's to 2026: more adventures, family moments, and whatever challenges come next. Grateful for it all.
 </blockquote>
 
-This post is a work in progress. 
+This post is a work in progress.  
 Peace.
 
-Disclosure:
+Disclosure:  
 This post is written with the help of Perplexity AI.
