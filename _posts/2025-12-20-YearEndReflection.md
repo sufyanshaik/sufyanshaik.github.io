@@ -38,8 +38,8 @@ This year also brought reconnection. I met up with a few old friends after years
     {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1 h-100 w-100 object-fit-cover" %}  <!-- Added: h-100 w-100 object-fit-cover -->
   </div>
   <div class="col-md-6 ps-md-1 d-flex flex-column gap-2">  <!-- Changed: col-sm → col-md-6 + flex classes -->
-    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Micron_APTD_Taiwan.jpg" class="img-fluid rounded z-depth-1 flex-grow-1 object-fit-cover" %}  <!-- Added: flex-grow-1 object-fit-cover -->
-    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/MuseumFineArts.jpg" class="img-fluid rounded z-depth-1 flex-grow-1 object-fit-cover" %}  <!-- Added: flex-grow-1 object-fit-cover -->
+    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Micron_APTD_Taiwan.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/MuseumFineArts.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
