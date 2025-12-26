@@ -33,13 +33,17 @@ This year also brought reconnection. I met up with a few old friends after years
 </div>
 -->
 
-<div class="row mt-3 align-items-stretch g-3">  <!-- Added: align-items-stretch g-3 -->
-  <div class="col-md-6 pe-md-1">  <!-- Changed: col-sm → col-md-6 + pe-md-1 -->
-    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1 h-100 w-100 object-fit-cover" %}  <!-- Added: h-100 w-100 object-fit-cover -->
+<div class="row mt-3 align-items-stretch g-3">
+  <div class="col-md-6 pe-md-1">
+    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Singapore_Ashok.jpg" class="img-fluid rounded z-depth-1 h-100 w-100 object-fit-cover" %}
   </div>
-  <div class="col-md-6 ps-md-1 d-flex flex-column gap-2">  <!-- Changed: col-sm → col-md-6 + flex classes -->
-    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Micron_APTD_Taiwan.jpg" class="img-fluid rounded z-depth-1" %}
-    {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/MuseumFineArts.jpg" class="img-fluid rounded z-depth-1" %}
+  <div class="col-md-6 ps-md-1 d-flex flex-column gap-2 h-100">
+    <div class="flex-grow-1 d-flex">
+      {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/Micron_APTD_Taiwan.jpg" class="img-fluid rounded z-depth-1 w-100 h-100 object-fit-cover" %}
+    </div>
+    <div class="flex-grow-1 d-flex">
+      {% include figure.html path="assets/img/blogpost_2025_YearEndReflection/MuseumFineArts.jpg" class="img-fluid rounded z-depth-1 w-100 h-100 object-fit-cover" %}
+    </div>
   </div>
 </div>
 <div class="caption">
