@@ -29,8 +29,9 @@ I believe the best engineering breakthroughs happen when physics, data, and doma
 I have extensive experience in various Computational Materials Engineering tools such as <a rel="nofollow" href="https://vasp.at">Vienna Ab-initio Simulation Package</a> (Density Functional Theory/ab-initio Atomistic Modeling), <a rel="nofollow" href="https://jp-minerals.org/vesta/en/download.html">VESTA</a> (atomic structure visualization), <a rel="nofollow" href="https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/">ATAT</a> (for special quasi-random structure generation), <a rel="nofollow" href="https://atomsk.univ-lille.fr">Atomsk</a> (atomic structure file manipulation), and TCAD software package to create <a href="https://en.wikipedia.org/wiki/Digital_twin">Digital Twin</a> of microstructural phases of metals, alloys, and semiconductor devices. I enjoy automating routine tasks using Shell scripting and Python programming, which saves time and effort.
 
 I have more than 10 years of diverse experience in Problem-solving, Stakeholder engagement through active collaborations, <a href="/">R&D Project Management</a>, Team Management, Industrial & Academic Research, and Cross-functional Collaborations. I am experienced in solving complex problems using the First-principles Problem-solving approach. I love breaking down highly techincal problems into smaller chunks and then solving them. Using this approach, I have:
-- Developed a physics-based model that predicted certain physical phenomenon **5 months in advance**, even before Si wafers were submitted to fab.
-- Developed models that helped **75%** wafer savings and time savings resulting in faster product development cycles.
+- Developed a physics-based model that predicted certain physical phenomenon **7 months in advance**, before Fab readout came out.
+- Delivered on stress related models across 3 HBM generations.
+- Developed models that helped **75%** wafer savings and time savings resulting in faster Process Integration cycles.
 - Developed **3x cheaper** domestic alternative to international supplier using Cost Benefit Analysis.
 - Developed a **9x faster** atomistic modeling workflow.
 - Optimized metallography sample preparation process resulting in **22% time-savings**.
@@ -91,7 +92,7 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, journaling, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time. From Jagjit Singh to Eminem and Nusrat Fateh Ali Khan to Badshah, I listen to all genre of music.
 
-Feel free to reach out to me and I would be happy to discuss my PhD research with your team on how to leverage Materials Modeling in Discovering, Designing, and Developing Advanced Alloys for some of the most challenging applications.
+Throughout my career, I have been driven by solving complex technical problems, drive innovation, and translate deep domain expertise into measurable business impact. My passion lies in applying Advanced Modeling, AI, and First-principles problem solving methods to accelerate semiconductor Technology Development and manufacturing excellence. Let's connect and explore how we can solve difficult problems and create meaningful impact together.
 
 *Testimonials from some of my colleagues:*
 <div class="row justify-content-sm-center">
