@@ -69,7 +69,7 @@ I did my Bachelors in Metallurgical Engineering from COEP Technological Universi
     </div>
 </div>
 <div class="caption">
-    Slide that I created during my first week at Micron.
+    Introduction slide that I created during my first week at Micron.
 </div>
 
 I did my Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology Madras (IIT Madras). I have developed alloys for high-temperature structural applications using Ab-initio Atomistic Modeling for my PhD. I have developed a refractory metal based alternative to superalloy using First-principles Atomistic Modeling that can have better high-temperature properties than the current state-of-the-art Ni-based superalloys. My PhD thesis was on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://en.wikipedia.org/wiki/Budaraju_Srinivasa_Murty">Prof. B. S. Murty</a> (Director - Indian Institute of Technology Hyderabad) and <a rel="nofollow"  href="https://home.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
