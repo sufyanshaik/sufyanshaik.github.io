@@ -15,10 +15,17 @@
       institution: Micron Technology, Hyderabad, India
       year: 2025-Present
       description:
-        - Driving high-impact projects in APAC region for High Bandwidth Memory product.
-        - Delivered an advanced model in Taiwan Fab that helps live wafer monitoring.
+        - Driving high-impact projects in HBM, DRAM, and NAND products.
+        - Collaborating with international teams and Fabs on various R&D projects.
         - Develop innovative models that give insights on failure modes before they become bottleneck to teams in Boise, Japan, Taiwan, India.
     
+    - title: Staff Engineer, Advanced Modeling & AI Solutions 
+      institution: Micron Technology, Taichung, Taiwan
+      year: 2025-November
+      description:
+        - Short assignment with Assembly Package Technology Development team.
+        - Delivered an advanced model in Taiwan Fab that helps live wafer monitoring.
+
     - title: Senior Engineer, Advanced Modeling & AI Solutions 
       institution: Micron Technology, Hyderabad, India
       year: 2023-2025
@@ -102,9 +109,14 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items: 
+        - Culture Champion Award for delivering exceptional performance on HBM4e product.
+        - Showed exceptional collaboration skills while driving projects with teams from USA, Taiwan, and India.
+        - Value pillar "Collaboration".
     - year: 2025
       items: 
-        - Culture Champion Award for delivering exceptional performance on DRAM and HBM memory product.
+        - Culture Champion Award for delivering exceptional performance on DRAM and HBM product.
         - Showed exceptional tenacity while driving projects with teams from USA, Taiwan, Japan, and India.
         - Value pillar "Tenacity".
     - year: 2024
