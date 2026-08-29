@@ -30,7 +30,7 @@ I have extensive experience in various Computational Materials Engineering tools
 
 I have more than 10 years of diverse experience in Problem-solving, Stakeholder engagement through active collaborations, <a href="/">R&D Project Management</a>, Team Management, Industrial & Academic Research, and Cross-functional Collaborations. I am experienced in solving complex problems using the First-principles Problem-solving approach. I love breaking down highly techincal problems into smaller chunks and then solving them. Using this approach, I have:
 - Developed a physics-based model that predicted certain physical phenomenon **7 months in advance**, before Fab readout came.
-- Delivered on high-fidelity stress models across **3 HBM** generations.
+- Delivered on high-fidelity stress models across multiple HBM generations.
 - Developed models that helped **75%** wafer savings and time savings resulting in faster Process Integration cycles.
 - Designed an **Alloy design stage gate** that analyzed 252 alloys on 6 parameters, resulting in new ductile alloy systems.
 - Developed a **bottom-up methodology** for alloy design using atomistic modeling of 44 refractory metals and alloys.
@@ -48,13 +48,13 @@ I routeinly brainstorm on complex ideas and highly technical concepts in simple 
     </div>
 </div>
 <div class="caption">
-    Culture Champion Award from the CEO of Micron Technology, Inc. Sanjay Mehrotra for delivering on a challenging project with strong KPI.(I am wearing white shoes)
+    Culture Champion Award from the CEO of Micron Technology, Inc. Sanjay Mehrotra for delivering on a challenging project with strong KPI. (I am wearing white shoes)
 </div>
 
 **My work has been recognized through 1 Innovation Disclosure Award (Micron internal), 1 Internal Seminar Presentation (Micron internal), 7 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.**
 
 I have extensive experience in:
-- Design-Technology Process Co-Optimization (DTPCO) using Advanced Strcuture/Stress models of Semiconductor Memory Products
+- Solving stress-related failures in HBM, DRAM, and NAND memory products using Advanced Strcuture/Stress models 
 - Failure Investigations
 - Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS)
 - R&D Project Management
@@ -69,7 +69,7 @@ I did my Bachelors in Metallurgical Engineering from COEP Technological Universi
     </div>
 </div>
 <div class="caption">
-    I help teams at Micron design some of the world's most advanced memory chips.
+    Slide that I created during my first week at Micron.
 </div>
 
 I did my Masters and PhD in Metallurgical and Materials Engineering from the Indian Institute of Technology Madras (IIT Madras). I have developed alloys for high-temperature structural applications using Ab-initio Atomistic Modeling for my PhD. I have developed a refractory metal based alternative to superalloy using First-principles Atomistic Modeling that can have better high-temperature properties than the current state-of-the-art Ni-based superalloys. My PhD thesis was on understanding the effect of alloying elements on the deformation and strengthening behavior of refractory metal alloys. My thesis advisors were <a rel="nofollow" href="https://en.wikipedia.org/wiki/Budaraju_Srinivasa_Murty">Prof. B. S. Murty</a> (Director - Indian Institute of Technology Hyderabad) and <a rel="nofollow"  href="https://home.iitm.ac.in/satyesh/index.html">Prof. Satyesh K. Yadav</a> (Assistant Professor, Indian Institute of Technology Madras).
@@ -85,9 +85,9 @@ Before joining IIT Madras, I was heading the Materials Lab at Bekaert India Tech
     Places where I have either worked or have been to or have had cross-functional collaborators 
 </div>
 
-During my time at Bekaert, I successfully renewed the IATF 16949 certification of the Materials Lab, led more than 52 materials investigations, managed a lab with an annual budget of about INR 2.2 million, worked on cross-functional projects with teams from 5 countries, and led a team of 4 analysts. My frequent interactions with the Indian Steelmakers/Suppliers, Customers, Product Development teams, Purchase Teams, and my international counterparts from 5 countries have improved my Communication & Presentation skills, Problem-solving skills, and Persuasion skills.
+During my time at Bekaert, I successfully renewed the **IATF 16949** certification of the Materials Lab, led more than **52 materials investigations**, managed a lab with an annual budget of about **INR 2.2 million**, worked on cross-functional projects with **teams from 5 countries**, and led a **team of 4 analysts**. My frequent interactions with the Indian Steelmakers, Suppliers, Customers, Product Development teams, Purchase Teams, and my international counterparts from 5 countries have improved my Communication & Presentation skills, Problem-solving skills, and Persuasion skills.
 
-I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a rel="nofollow" href="https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf">Integrated Computational Materials Engineering (ICME)</a> accelerating the <a rel="nofollow" href="https://iit-techambit.in/computational-materials-science/">Materials Development cycles</a>.
+I believe the next revolution in Materials Development will happen at the confluence of Physics, Computer Science, and Materials Science & Engineering, with Materials Informatics and <a rel="nofollow" href="https://www.awsar-dst.in/2020/winner_article_2020_view/view/Mr_Sufyan_M_Shaikh.pdf">Integrated Computational Materials Engineering (ICME)</a> accelerating the <a rel="nofollow" href="https://iit-techambit.in/computational-materials-science/">Materials Development cycles</a> through Advanced AI Agents.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -100,7 +100,9 @@ I believe the next revolution in Materials Development will happen at the conflu
 
 I enjoy reading Ayn Rand's "The Fountainhead", writing poetry, journaling, and listening to music in English, Hindi, Marathi, Tamil and Urdu during my free time. From Jagjit Singh to Eminem and Nusrat Fateh Ali Khan to Badshah, I listen to all genre of music.
 
-Throughout my career, I have been driven by solving complex technical problems, drive innovation, and translate deep domain expertise into measurable business impact. My passion lies in applying Advanced Modeling, AI, and First-principles problem solving methods to accelerate semiconductor Technology Development and manufacturing excellence. Let's connect and explore how we can solve difficult problems and create meaningful impact together.
+Throughout my career, I have been driven by solving complex technical problems, drive innovation, and translate deep domain expertise into measurable business impact. My passion lies in applying Advanced Modeling, AI, and First-principles problem solving methods to accelerate Semiconductor Technology Development and Manufacturing Excellence.
+
+***Let's connect and explore how we can solve difficult problems and create meaningful impact together.***
 
 *Testimonials from some of my colleagues:*
 <div class="row justify-content-sm-center">
