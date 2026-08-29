@@ -30,15 +30,15 @@ I have extensive experience in various Computational Materials Engineering tools
 
 I have more than 10 years of diverse experience in Problem-solving, Stakeholder engagement through active collaborations, <a href="/">R&D Project Management</a>, Team Management, Industrial & Academic Research, and Cross-functional Collaborations. I am experienced in solving complex problems using the First-principles Problem-solving approach. I love breaking down highly techincal problems into smaller chunks and then solving them. Using this approach, I have:
 - Developed a physics-based model that predicted certain physical phenomenon **7 months in advance**, before Fab readout came.
-- Delivered on stress related models across 3 HBM generations.
+- Delivered on high-fidelity stress models across **3 HBM** generations.
 - Developed models that helped **75%** wafer savings and time savings resulting in faster Process Integration cycles.
+- Designed an **Alloy design stage gate** that analyzed 252 alloys on 6 parameters, resulting in new ductile alloy systems.
+- Developed a **bottom-up methodology** for alloy design using atomistic modeling of 44 refractory metals and alloys.
+- Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
 - Developed **3x cheaper** domestic alternative to international supplier using Cost Benefit Analysis.
 - Developed a **9x faster** atomistic modeling workflow.
 - Optimized metallography sample preparation process resulting in **22% time-savings**.
 - Developed **3 new** etchant chemistries.
-- Designed an **Alloy design stage gate** that analyzed 252 alloys on 6 parameters, resulting in new ductile alloy systems.
-- Developed a **bottom-up methodology** for alloy design using atomistic modeling of 44 refractory metals and alloys.
-- Discovered the role of HCP elements in making deformable refractory alloys for aerospace applications.
 
 I routeinly brainstorm on complex ideas and highly technical concepts in simple terms with Customers, Global Teams, and Executive Management.
 
@@ -51,7 +51,15 @@ I routeinly brainstorm on complex ideas and highly technical concepts in simple 
     Culture Champion Award from the CEO of Micron Technology, Inc. Sanjay Mehrotra for delivering on a challenging project with strong KPI.(I am wearing white shoes)
 </div>
 
-**My work has been recognized through 1 Innovation Disclosure Award (Micron internal), 7 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.** I have extensive experience in R&D Project Management, Physical Metallurgy, Failure Investigations, and Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS). I am a practitioner of First-principles method of Problem Solving.
+**My work has been recognized through 1 Innovation Disclosure Award (Micron internal), 1 Internal Seminar Presentation (Micron internal), 7 peer-reviewed <a href="/publications/">publications</a> (a few more are in the pipeline), 1 National Scholarship Award, 1 International Scholarship Award at Sweden, 2 Poster Presentation Awards, 3 <a href="/cv/">Govt. of India Awards</a>, 6 International Conference Presentations, and 1 <a href="/projects/3_project/">US Air Force Research Lab report</a>.** I am a proponent of **Physics-guided, Data-driven Materials Discovery, Design, and Development.**
+
+I have extensive experience in:
+- Design-Technology Process Co-Optimization (DTPCO) using Advanced Strcuture/Stress models of Semiconductor Memory Products
+- Failure Investigations
+- Process-Structure-Property-Performance analysis using Advanced Metallography, Scanning Electron Microscopy, and Energy Dispersive Spectroscopy (SEM-EDS)
+- R&D Project Management
+
+I am a practitioner of First-principles method of Problem Solving.
 
 I did my Bachelors in Metallurgical Engineering from COEP Technological University (previously known as Government College of Engineering Pune-COEP), Maharshtra, India in 2015, where I was awarded the **Government of India - Ministry of Steel Scholarship of ₹120,000 (0.12 Million Indian Rupees) for academic excellence.**
 
