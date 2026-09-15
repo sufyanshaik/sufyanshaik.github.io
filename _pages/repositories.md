@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Repositories
 description: Collection of few interesting repositories 
 nav: true
-nav_order: 5 
+nav_order: 4
 ---
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
