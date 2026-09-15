@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Collection of Sufyan's past, present, and future projects. The projects are on Alloy Development, Materials Modeling, Vibrational Entorpy, High Entropy Alloy, and Metallurgy.
 nav: true 
-nav_order: 2 
+nav_order: 3 
 display_categories: [work]
 horizontal: false
 ---

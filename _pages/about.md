@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-nav: false
-nav_order: 4 
+nav: true
+nav_order: 1
 
 profile:
   align: right
