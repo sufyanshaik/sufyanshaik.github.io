@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! Welcome to my website.
 
-My name is Sufyan and I am a member of Advanced Modeling and AI Solutions team at Micron Technology Inc., where I help various teams around the world to design and manufacture better semiconductor memory chips using Advanced Modeling techniques. I help solve Micron’s end-to-end (Si-to-Package) R&D problems using Advanced Models of High Bandwidth Memory (HBM), NAND, and DRAM memory products. I help teams from Front End, Back End, Assembly, and Packaging to develop some of the world's most advanced memory products. These products play an integral part of some the latest Mobile Phones, Laptops, Cloud Service Providers, and Data Centers.
+My name is Sufyan and I am a member of Advanced Modeling and AI Solutions team at Micron Technology Inc., where I help various teams around the world to design and manufacture better semiconductor memory chips using Advanced Modeling techniques. I help solve Micron’s end-to-end Technology Development problems using Advanced Models of High Bandwidth Memory (HBM), NAND, and DRAM memory products. I help teams from Front End, Back End, Assembly, and Packaging to develop some of the world's most advanced memory products. These products play an integral part of some the latest Mobile Phones, Laptops, Cloud Service Providers, and Data Centers.
 
 I believe the best engineering breakthroughs happen when Physics, Data, and Domain Expertise work together. My career has been driven by a simple principle: **understand the fundamentals deeply, break complex problems into manageable pieces, and build practical solutions that create measurable impact**.
 
