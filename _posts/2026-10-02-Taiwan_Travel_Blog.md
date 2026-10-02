@@ -61,7 +61,6 @@ During this visit I spent time observing details that are often missed when rush
 Taipei 101 was one of the defining experiences of my Taiwan journey. A place which I had only seen 2 decades ago on Discovery channel, suddenly felt so real. You never know where life will take you and for what reasons. It was a pilgrimage to this engineering marvel. Standing next to the Tuned Mass Damper was a surreal experience. I couldn't do the skywalk outside the top deck through top floor.
 
 Before visiting Taipei 101, I expected impressive architecture and panoramic city views. Those expectations were certainly met, but the experience offered far more than photographs from an observation deck. Standing near the base of the tower, the scale becomes difficult to comprehend. The last time I experienced such emotion was at Eiffel Tower exactly a decade ago in the October of 2015. The building dominates the skyline while maintaining an elegant design inspired by traditional Asian symbolism. Its structure reflects both engineering achievement and cultural influence.
-
 <div class="row mt-3">
     <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Taipei101.webp" class="img-fluid rounded z-depth-1" %}
@@ -106,7 +105,6 @@ Before arriving at Sun Moon Lake, much of the journey had focused on cities, mus
 The landscape immediately introduced a slower pace. Mountains surrounded the water, creating a sense of isolation from the energy of urban Taiwan. The air felt cleaner, conversations became quieter, and even time seemed to move differently.
 
 Walking along the shoreline revealed constantly changing perspectives. Each viewpoint offered different reflections, different colors, and different relationships between the water and surrounding terrain. What impressed me most was the atmosphere of tranquility. Many destinations described as peaceful become crowded attractions that struggle to deliver on that promise. Sun Moon Lake genuinely felt calm.
-
 <div class="row mt-3">
     <!-- Left column: Sun Moon Lake -->
     <div class="col-md-6">
@@ -145,7 +143,6 @@ The country's natural landscapes are equally important in understanding what mak
 Longshan Temple provided one of the most culturally significant experiences of the journey.
 
 Even before entering the main grounds, the intricate details of the architecture captured attention. Carvings, colors, symbols, and decorative elements reflected centuries of artistic and religious tradition. What made the experience especially meaningful was observing that the temple remains an active place of worship rather than simply a historical monument. Visitors and worshippers shared the same space respectfully, creating a connection between past and present.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/DriverGuide.webp" class="img-fluid rounded z-depth-1" %}
@@ -168,7 +165,6 @@ Museums became an unexpected highlight of the trip.
 Many travelers focus primarily on famous landmarks, but Taiwan's museums provided context that enhanced every other experience. Historical events, scientific discoveries, artistic developments, geological challenges, and social transformations became easier to understand through these institutions.
 
 The Earthquake Museum offered particularly valuable insights. Taiwan's geography has shaped both its challenges and its resilience. Learning how communities responded to devastating natural disasters revealed a national commitment to preparation, adaptation, and education.
-
 <div class="row mt-3 justify-content-center">
     <div class="col-md-5">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/StairsFromBottom.webp" class="img-fluid rounded z-depth-1" %}
@@ -188,7 +184,6 @@ The Earthquake Museum offered particularly valuable insights. Taiwan's geography
 Similarly, the National Museum of Natural Science demonstrated how interactive learning can engage visitors of all ages. Rather than simply displaying information, the exhibits encouraged curiosity and exploration.
 
 The expedition of Black Water at the National Taichung Museum of Fine Arts was moving experience. It showed Taiwan's struggle through histories. There were many small and big installations that conveyed a variety of messages. These messagese were revolving around the historical struggles of the Taiwan. How it has been tossed around during many wars it has went through. Never in my life I was so much moved while going through a museum.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWater.webp" class="img-fluid rounded z-depth-1" %}
@@ -200,7 +195,6 @@ The expedition of Black Water at the National Taichung Museum of Fine Arts was m
 <br>
 
 The paper plane art installation had a profound impact on me as to how the messages get lost during transit. A symbolic paper plane thrown from one corner of a square towards the other corner across diagonal, ended up at the bottom of the pit instead of reaching the other corner. Art need not be complex. Art can be an empty box with a paper plane, its your imagination and the message that carries the weight.
-
 <div class="row mt-3">
     <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/PaperPlane2.webp" class="img-fluid rounded z-depth-1" %}
@@ -219,7 +213,6 @@ The paper plane art installation had a profound impact on me as to how the messa
 <br>
 
 Visiting museums also highlighted Taiwan's investment in public education. These institutions were designed not merely as attractions but as resources for lifelong learning.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/NationalTaiwanMuseumOfFineArts.webp" class="img-fluid rounded z-depth-1" %}
@@ -238,7 +231,6 @@ The Earthquake Museum was one of the most thought-provoking destinations I visit
 Taiwan is located in a region where tectonic activity is a natural part of life. The museum explains how earthquakes occur, how communities prepare for them, and how engineering practices continue evolving to improve safety. As someone fascinated by science and engineering, I found the exhibits incredibly informative.
 
 One of the most striking aspects of the museum was seeing preserved structures that had experienced significant earthquake damage. Reading statistics in a textbook is one thing; standing next to physical evidence of nature's power creates a completely different perspective. The displays helped visitors understand both the destructive force of earthquakes and the resilience required to recover from them.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/EarthquakeFrozenInTime.webp" class="img-fluid rounded z-depth-1" %}
@@ -273,7 +265,6 @@ One of the most enjoyable educational experiences during my Taiwan journey was e
 The aquarium sections were particularly fascinating because they showcased species from different marine environments around Taiwan and the broader Pacific region. Watching fish move through carefully designed habitats provided a glimpse into an underwater world that most people rarely get the opportunity to observe. Some exhibits focused on colorful coral reef ecosystems, while others highlighted larger marine species and the challenges involved in protecting delicate ocean environments.
 
 What impressed me most was the emphasis on conservation and environmental awareness. Rather than only displaying marine life, the exhibits explained how human activity affects oceans and what can be done to preserve aquatic ecosystems for future generations. The educational approach made the experience feel meaningful rather than purely recreational.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/TaichungAquarium.webp" class="img-fluid rounded z-depth-1" %}
@@ -324,7 +315,6 @@ The combination of entertainment and education made the visit memorable. Beyond 
 Rainbow Village was one of the most unexpected highlights of my Taiwan trip. Before visiting, I had seen photographs online and assumed it would simply be a colorful tourist attraction. What I discovered instead was a place with a remarkable story about creativity, resilience, and community preservation.
 
 The village is famous for its vibrant walls covered in colorful paintings, animals, cartoon characters, flowers, and imaginative patterns. Every corner seemed to offer a new combination of colors and artwork. Unlike traditional art galleries where visitors quietly observe exhibits from a distance, Rainbow Village feels immersive. The entire environment becomes the artwork.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Rainbow.webp" class="img-fluid rounded z-depth-1" %}
@@ -347,7 +337,6 @@ Rainbow Village reminded me that memorable travel experiences do not always requ
 Even before stepping inside the National Taichung Theatre, the building felt extraordinary.
 
 Its flowing shapes and unconventional design challenged traditional expectations of architecture. Rather than relying on straight lines and rigid geometry, the structure appeared almost organic, as if carved by natural forces. The interior was equally impressive. Spaces connected seamlessly, creating an environment that encouraged exploration. Light entered through carefully designed openings, producing a constantly changing visual experience throughout the day.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/NationalTaichungTheatre.webp" class="img-fluid rounded z-depth-1" %}
@@ -378,7 +367,7 @@ Its flowing shapes and unconventional design challenged traditional expectations
 What fascinated me most was how the building itself became an attraction independent of the performances it hosts. Architecture transformed into artistic expression. The theatre demonstrated how Taiwan embraces modern design while still maintaining a strong cultural identity.
 
 
-# Lessons From Taiwan
+# Reflections on Taiwan
 
 Every meaningful journey leaves behind lessons that extend beyond travel itself.
 
@@ -386,12 +375,11 @@ Taiwan demonstrated how modernization and cultural preservation can coexist succ
 
 The trip also reinforced the importance of curiosity. Some of the most rewarding experiences occurred when plans changed, unexpected conversations emerged, or additional time was spent exploring places without a strict agenda.
 
+<blockquote>
 Travel becomes most valuable when it encourages observation rather than simply checking items off an itinerary.
+</blockquote>
 
 Taiwan consistently rewarded that mindset.
-
-
-# Reflections on Taiwan
 
 Taiwan demonstrated that progress and tradition do not need to compete. The journey showed examples of technological achievement, artistic expression, cultural preservation, scientific education, environmental awareness, and spiritual continuity.
 
