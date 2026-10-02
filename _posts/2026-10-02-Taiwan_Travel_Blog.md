@@ -35,7 +35,6 @@ Public parks were particularly interesting. They were not merely decorative land
 # Taichung City Night Market
 
 Taichung City Night Market was exactly same as that of any other similar market in India, but cleaner. I wasn't surprized to see how shopping preferences and shopping pattern of people across the seas is exactly the same. The same haggling, the same hard negotiations, the same voices but in a different language. 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/NightMarket.webp" class="img-fluid rounded z-depth-1" %}
@@ -45,9 +44,7 @@ Taichung City Night Market was exactly same as that of any other similar market 
     Night Market
 </div>
 <br>
-
 During this visit I spent time observing details that are often missed when rushing from attraction to attraction. I paid attention to the shops, the people, the atmosphere, the sounds, and the way each space reflected Taiwanese culture. Rather than treating the destination as a simple tourist stop, it became an opportunity to observe how the everyday life of people across the world can be exactly same on certain aspects.
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/AppleBoy.webp" class="img-fluid rounded z-depth-1" %}
@@ -288,13 +285,26 @@ What impressed me most was the emphasis on conservation and environmental awaren
 <br>
 
 <div class="row mt-3">
+    <!-- Left column: 2 rows -->
     <div class="col-md-6">
-        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Walkway.webp" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Walkway
+
+        <div class="mb-3">
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Walkway.webp" class="img-fluid rounded z-depth-1" %}
+            <div class="caption">
+                Walkway
+            </div>
         </div>
+
+        <div>
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/TaichungAquariumFull.webp" class="img-fluid rounded z-depth-1" %}
+            <div class="caption">
+                Taichung Aquarium
+            </div>
+        </div>
+
     </div>
 
+    <!-- Right column: 1 image -->
     <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Typhoon.webp" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
@@ -382,21 +392,18 @@ Thank you, Taiwan. Until next time.
 
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/AlmostHealthyBreakfast.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Almost Healthy Breakfast
+        </div>
     </div>
-</div>
-<div class="caption">
-    Almost Healthy Breakfast
-</div>
-<br>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/GTAViceCity.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            GTA Vice City
+        </div>
     </div>
-</div>
-<div class="caption">
-    GTA Vice City
 </div>
 <br>
