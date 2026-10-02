@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taiwan 2025 Travel Blog
-date: 2026-10-02 16:00:16
+date: 2026-09-30 16:00:16
 description: Blog on my Taiwan trip in November 2025.
 tags: personal life travel
 categories: blog-posts
