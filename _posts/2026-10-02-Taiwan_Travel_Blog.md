@@ -58,9 +58,9 @@ During this visit I spent time observing details that are often missed when rush
 
 # Taipei 101: Beyond the View
 
-Taipei 101 was one of the defining experiences of my Taiwan journey. A place which I had only seen 2 decades ago on Discovery channel, suddenly felt so real. You never know where life will take you for what reasons. It was a pilgrimage to this engineering marvel. Standing next to the pendulum was a surreal experience. I missed standing outside the top deck though at the 101 floor.
+Taipei 101 was one of the defining experiences of my Taiwan journey. A place which I had only seen 2 decades ago on Discovery channel, suddenly felt so real. You never know where life will take you and for what reasons. It was a pilgrimage to this engineering marvel. Standing next to the Tuned Mass Damper was a surreal experience. I couldn't do the skywalk outside the top deck through top floor.
 
-Before visiting Taipei 101, I expected impressive architecture and panoramic city views. Those expectations were certainly met, but the experience offered far more than photographs from an observation deck. Standing near the base of the tower, the scale becomes difficult to comprehend. The building dominates the skyline while maintaining an elegant design inspired by traditional Asian symbolism. Its structure reflects both engineering achievement and cultural influence.
+Before visiting Taipei 101, I expected impressive architecture and panoramic city views. Those expectations were certainly met, but the experience offered far more than photographs from an observation deck. Standing near the base of the tower, the scale becomes difficult to comprehend. The last time I experienced such emotion was at Eiffel Tower exactly a decade ago in the October of 2015. The building dominates the skyline while maintaining an elegant design inspired by traditional Asian symbolism. Its structure reflects both engineering achievement and cultural influence.
 
 <div class="row mt-3">
     <div class="col-md-6">
@@ -355,6 +355,23 @@ Its flowing shapes and unconventional design challenged traditional expectations
 </div>
 <div class="caption">
     National Taichung Theatre
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Stairs.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Stairs.
+        </div>
+    </div>
+
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/IceCream.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Ice Cream.
+        </div>
+    </div>
 </div>
 <br>
 
