@@ -183,7 +183,7 @@ The Earthquake Museum offered particularly valuable insights. Taiwan's geography
 
 Similarly, the National Museum of Natural Science demonstrated how interactive learning can engage visitors of all ages. Rather than simply displaying information, the exhibits encouraged curiosity and exploration.
 
-The expedition of Black Water at the National Taichung Museum of Fine Arts was moving experience. It showed Taiwan's struggle through histories. There were many small and big installations that conveyed a variety of messages. These messagese were revolving around the historical struggles of the Taiwan. How it has been tossed around during many wars it has went through. Never in my life I was so much moved while going through a museum.
+The 9th Taiwan Art Biennial - Black Water at the National Taichung Museum of Fine Arts was moving experience. It showed Taiwan's struggle through histories. There were many small and big installations that conveyed a variety of messages. These messagese were revolving around the historical struggles of the Taiwan. How it has been tossed around during many wars it has went through. Never in my life I was so much moved while going through a museum.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWater.webp" class="img-fluid rounded z-depth-1" %}
@@ -373,13 +373,7 @@ Every meaningful journey leaves behind lessons that extend beyond travel itself.
 
 Taiwan demonstrated how modernization and cultural preservation can coexist successfully. It showed that technological advancement does not require abandoning historical identity. It illustrated the value of investing in public infrastructure, education, community spaces, and environmental stewardship.
 
-The trip also reinforced the importance of curiosity. Some of the most rewarding experiences occurred when plans changed, unexpected conversations emerged, or additional time was spent exploring places without a strict agenda.
-
-<blockquote>
-Travel becomes most valuable when it encourages observation rather than simply checking items off an itinerary.
-</blockquote>
-
-Taiwan consistently rewarded that mindset.
+The trip also reinforced the importance of curiosity. Some of the most rewarding experiences occurred when plans changed, unexpected conversations emerged, or additional time was spent exploring places without a strict agenda. Travel becomes most valuable when it encourages observation rather than simply checking items off an itinerary. Taiwan consistently rewarded that mindset.
 
 Taiwan demonstrated that progress and tradition do not need to compete. The journey showed examples of technological achievement, artistic expression, cultural preservation, scientific education, environmental awareness, and spiritual continuity.
 
@@ -387,14 +381,15 @@ Across museums, temples, city streets, scenic landscapes, and public spaces, I c
 
 Travel often changes our understanding of places, but the most meaningful journeys also change our understanding of ourselves. Taiwan became one of those journeys.
 
+<blockquote>
+Travel becomes most valuable when it encourages observation rather than simply checking items off an itinerary.
+</blockquote>
+
 Looking back on this adventure, I remember much more than landmarks. I remember moments of wonder while looking out over Taipei. I remember quiet reflection beside Sun Moon Lake. I remember evenings spent wandering through lively markets. I remember artistic inspiration, scientific curiosity, engineering innovation, and cultural discovery.
 
-The photographs placed throughout this blog will preserve visual memories of the trip. The stories preserve something even more valuable: the meaning behind those memories.
+The photographs placed throughout this blog will preserve visual memories of the trip. The stories preserve something even more valuable: the meaning behind those memories. Taiwan left a lasting impression because it balanced so many different strengths at once. It felt modern yet deeply connected to heritage. It felt efficient yet welcoming. It felt energetic yet peaceful.
 
-Taiwan left a lasting impression because it balanced so many different strengths at once. It felt modern yet deeply connected to heritage. It felt efficient yet welcoming. It felt energetic yet peaceful.
-
-Thank you, Taiwan. Until next time.
-
+**Thank you, Taiwan. Until next time.**
 
 <div class="row mt-3">
     <div class="col-md-6 mt-3 mt-md-0">
