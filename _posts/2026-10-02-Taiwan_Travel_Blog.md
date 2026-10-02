@@ -205,22 +205,19 @@ The expedition of Black Water at the National Taichung Museum of Fine Arts was m
 The paper plane art installation had a profound impact on me as to how the messages get lost during transit. A symbolic paper plane thrown from one corner of a square towards the other corner across diagonal, ended up at the bottom of the pit instead of reaching the other corner. Art need not be complex. Art can be an empty box with a paper plane, its your imagination and the message that carries the weight.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/PaperPlane2.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Paper Plane 2
+        </div>
     </div>
-</div>
-<div class="caption">
-    Paper Plane 2
-</div>
-<br>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/PaperPlanes1.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Paper Planes 1
+        </div>
     </div>
-</div>
-<div class="caption">
-    Paper Planes 1
 </div>
 <br>
 
