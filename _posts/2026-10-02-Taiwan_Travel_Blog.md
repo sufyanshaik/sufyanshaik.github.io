@@ -149,13 +149,22 @@ Even before entering the main grounds, the intricate details of the architecture
     </div>
 </div>
 <div class="caption">
-    Driver Guide
+    My driver and the guide for the day.
 </div>
 <br>
 
 The sounds, scents, and rituals contributed to an atmosphere unlike anywhere else visited during the trip. It was a reminder that cultural heritage is not preserved solely through museums or books. It survives through practice, participation, and community.
 
 Spending time at the temple provided a better understanding of the spiritual traditions that continue to influence Taiwanese society.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/SunsetFromTemple.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Sunset from temple.
+</div>
+<br>
 
 
 # Taiwan Through Its Museums
@@ -185,17 +194,24 @@ Similarly, the National Museum of Natural Science demonstrated how interactive l
 
 The 9th Taiwan Art Biennial - Black Water at the National Taichung Museum of Fine Arts was moving experience. It showed Taiwan's struggle through histories. There were many small and big installations that conveyed a variety of messages. These messagese were revolving around the historical struggles of the Taiwan. How it has been tossed around during many wars it has went through. Never in my life I was so much moved while going through a museum.
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWater.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Black Water
+        </div>
+    </div>
+
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWaterDescription.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Black Water Description
+        </div>
     </div>
 </div>
-<div class="caption">
-    Black Water
-</div>
 <br>
-
 The paper plane art installation had a profound impact on me as to how the messages get lost during transit. A symbolic paper plane thrown from one corner of a square towards the other corner across diagonal, ended up at the bottom of the pit instead of reaching the other corner. Art need not be complex. Art can be an empty box with a paper plane, its your imagination and the message that carries the weight.
 <div class="row mt-3">
+    <!-- Left column -->
     <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/PaperPlane2.webp" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
@@ -203,10 +219,20 @@ The paper plane art installation had a profound impact on me as to how the messa
         </div>
     </div>
 
+    <!-- Right column -->
     <div class="col-md-6">
-        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/PaperPlanes1.webp" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Paper Planes 1
+        <div class="mb-4">
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/PaperPlanes1.webp" class="img-fluid rounded z-depth-1" %}
+            <div class="caption">
+                Paper Planes 1
+            </div>
+        </div>
+
+        <div>
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/ArtWithin.webp" class="img-fluid rounded z-depth-1" %}
+            <div class="caption">
+                Art Within.
+            </div>
         </div>
     </div>
 </div>
@@ -214,12 +240,19 @@ The paper plane art installation had a profound impact on me as to how the messa
 
 Visiting museums also highlighted Taiwan's investment in public education. These institutions were designed not merely as attractions but as resources for lifelong learning.
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/NationalTaiwanMuseumOfFineArts.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            National Taiwan Museum Of Fine Arts
+        </div>
     </div>
-</div>
-<div class="caption">
-    National Taiwan Museum Of Fine Arts
+
+    <div class="col-md-6">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Outside.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            National Taiwan Museum Of Fine Arts outside.
+        </div>
+    </div>
 </div>
 <br>
 
@@ -227,6 +260,15 @@ Visiting museums also highlighted Taiwan's investment in public education. These
 # Earthquake Museum: Understanding Taiwan's Resilience
 
 The Earthquake Museum was one of the most thought-provoking destinations I visited in Taiwan. Unlike many attractions that focus on entertainment or sightseeing, this museum offered an opportunity to understand an important aspect of Taiwan's geography and history.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/EarthquakeMuseumEntrance.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Earthquake Museum entrance.
+</div>
+<br>
 
 Taiwan is located in a region where tectonic activity is a natural part of life. The museum explains how earthquakes occur, how communities prepare for them, and how engineering practices continue evolving to improve safety. As someone fascinated by science and engineering, I found the exhibits incredibly informative.
 
@@ -237,7 +279,7 @@ One of the most striking aspects of the museum was seeing preserved structures t
     </div>
 </div>
 <div class="caption">
-    Earthquake Frozen In Time
+    Earthquake Frozen In Time.
 </div>
 <br>
 
@@ -247,7 +289,7 @@ One of the most striking aspects of the museum was seeing preserved structures t
     </div>
 </div>
 <div class="caption">
-    Earthquake Information
+    Earthquake Information.
 </div>
 <br>
 
@@ -266,12 +308,19 @@ The aquarium sections were particularly fascinating because they showcased speci
 
 What impressed me most was the emphasis on conservation and environmental awareness. Rather than only displaying marine life, the exhibits explained how human activity affects oceans and what can be done to preserve aquatic ecosystems for future generations. The educational approach made the experience feel meaningful rather than purely recreational.
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/TaichungAquarium.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Taichung aquarium enterance and me battling the typhoon uwan high speed winds.
+        </div>
     </div>
-</div>
-<div class="caption">
-    Taichung Aquarium
+
+    <div class="col-md-6">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/TaichungAquariumFull.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Taichung aquarium front.
+        </div>
+    </div>
 </div>
 <br>
 
@@ -287,9 +336,9 @@ What impressed me most was the emphasis on conservation and environmental awaren
         </div>
 
         <div>
-            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/TaichungAquariumFull.webp" class="img-fluid rounded z-depth-1" %}
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Fishes.webp" class="img-fluid rounded z-depth-1" %}
             <div class="caption">
-                Taichung Aquarium
+                Fishes.
             </div>
         </div>
 
@@ -312,10 +361,7 @@ The combination of entertainment and education made the visit memorable. Beyond 
 
 # Rainbow Village
 
-Rainbow Village was one of the most unexpected highlights of my Taiwan trip. Before visiting, I had seen photographs online and assumed it would simply be a colorful tourist attraction. What I discovered instead was a place with a remarkable story about creativity, resilience, and community preservation.
-
-The village is famous for its vibrant walls covered in colorful paintings, animals, cartoon characters, flowers, and imaginative patterns. Every corner seemed to offer a new combination of colors and artwork. Unlike traditional art galleries where visitors quietly observe exhibits from a distance, Rainbow Village feels immersive. The entire environment becomes the artwork.
-<div class="row mt-3">
+Rainbow Village, never knew such thing existed. Before visiting, I had seen photographs online and assumed it would simply be a colorful tourist attraction. What I discovered instead was a place with a remarkable story about creativity, resilience, and community preservation.  The village is famous for its vibrant walls covered in colorful paintings, animals, cartoon characters, flowers, and imaginative patterns. Every corner seemed to offer a new combination of colors and artwork. <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Rainbow.webp" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -337,6 +383,8 @@ Rainbow Village reminded me that memorable travel experiences do not always requ
 Even before stepping inside the National Taichung Theatre, the building felt extraordinary.
 
 Its flowing shapes and unconventional design challenged traditional expectations of architecture. Rather than relying on straight lines and rigid geometry, the structure appeared almost organic, as if carved by natural forces. The interior was equally impressive. Spaces connected seamlessly, creating an environment that encouraged exploration. Light entered through carefully designed openings, producing a constantly changing visual experience throughout the day.
+
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/NationalTaichungTheatre.webp" class="img-fluid rounded z-depth-1" %}
@@ -405,5 +453,82 @@ The photographs placed throughout this blog will preserve visual memories of the
             GTA Vice City
         </div>
     </div>
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Windmills.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Windmills at Gaomei wetlands.
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/MAFI.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Apologetic shop (MAFI means to apologize in Hindi).
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/GOAT.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The GOAT!
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Hotel.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    My home for 1 month.
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/AquariumDolls.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Few souveniors from Taichung Aquarium for my daughter.
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-md-6">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/LakeRopewayTicket.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Sun Moon Lake Ropeway ticket.
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/LakeRopeway.webp" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Sun Moon Lake Ropeway photo from the inside of the ropeway.
+        </div>
+    </div>
+</div>
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/FrogCycling.webp" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Frog cycling at Sun Moon Lake.
 </div>
 <br>
