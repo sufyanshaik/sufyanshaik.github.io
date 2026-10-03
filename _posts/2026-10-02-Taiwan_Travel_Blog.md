@@ -43,7 +43,6 @@ Taichung City Night Market was exactly same as that of any other similar market 
 <div class="caption">
     Night Market
 </div>
-<br>
 During this visit I spent time observing details that are often missed when rushing from attraction to attraction. I paid attention to the shops, the people, the atmosphere, the sounds, and the way each space reflected Taiwanese culture. Rather than treating the destination as a simple tourist stop, it became an opportunity to observe how the everyday life of people across the world can be exactly same on certain aspects.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -53,7 +52,6 @@ During this visit I spent time observing details that are often missed when rush
 <div class="caption">
     Apple Boy
 </div>
-<br>
 
 
 # Taipei 101: Beyond the View
@@ -76,8 +74,6 @@ Before visiting Taipei 101, I expected impressive architecture and panoramic cit
         </div>
     </div>
 </div>
-<br>
-
 The elevator ride itself felt like an attraction. Within seconds, visitors are transported to an elevation that would normally take many minutes to reach. Once at the observation level, the entire city unfolds beneath you. From above, Taipei appears incredibly organized. Roads stretch across the landscape, rivers divide sections of the city, and the surrounding mountains provide a dramatic natural backdrop. Looking into the distance, it becomes clear why Taiwan is often described as an island where urban development and nature remain closely connected.
 
 The experience also encouraged reflection on Taiwan's transformation over the past several decades. Taipei 101 stands not only as a skyscraper but also as a symbol of economic growth, innovation, and confidence. As daylight gradually transitioned into evening, thousands of lights illuminated the city below. The changing scenery created one of the most memorable visual experiences of the entire trip.
@@ -131,8 +127,6 @@ Walking along the shoreline revealed constantly changing perspectives. Each view
         </div>
     </div>
 </div>
-<br>
-
 Watching the sunlight gradually change throughout the day demonstrated why photographers are drawn to the area. Colors shifted, shadows moved across the hillsides, and the water reflected the environment in remarkable ways. The experience reminded me that Taiwan's identity extends far beyond its cities.
 
 The country's natural landscapes are equally important in understanding what makes it unique.
@@ -151,8 +145,6 @@ Even before entering the main grounds, the intricate details of the architecture
 <div class="caption">
     My driver and the guide for the day.
 </div>
-<br>
-
 The sounds, scents, and rituals contributed to an atmosphere unlike anywhere else visited during the trip. It was a reminder that cultural heritage is not preserved solely through museums or books. It survives through practice, participation, and community.
 
 Spending time at the temple provided a better understanding of the spiritual traditions that continue to influence Taiwanese society.
@@ -164,7 +156,6 @@ Spending time at the temple provided a better understanding of the spiritual tra
 <div class="caption">
     Sunset from temple.
 </div>
-<br>
 
 
 # Taiwan Through Its Museums
@@ -189,26 +180,37 @@ The Earthquake Museum offered particularly valuable insights. Taiwan's geography
         </div>
     </div>
 </div>
-
 Similarly, the National Museum of Natural Science demonstrated how interactive learning can engage visitors of all ages. Rather than simply displaying information, the exhibits encouraged curiosity and exploration.
 
 The 9th Taiwan Art Biennial - Black Water at the National Taichung Museum of Fine Arts was moving experience. It showed Taiwan's struggle through histories. There were many small and big installations that conveyed a variety of messages. These messagese were revolving around the historical struggles of the Taiwan. How it has been tossed around during many wars it has went through. Never in my life I was so much moved while going through a museum.
 <div class="row mt-3">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWater.webp" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Black Water
+    <!-- Left column -->
+    <div class="col-sm-6">
+        <!-- Black Water -->
+        <div class="mb-4">
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWater.webp" class="img-fluid rounded z-depth-1" %}
+            <div class="caption">
+                Black Water
+            </div>
+        </div>
+
+        <!-- Abstract Art -->
+        <div>
+            {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/AbstractArt.webp" class="img-fluid rounded z-depth-1" %}
+            <div class="caption">
+                Abstract Art installation.
+            </div>
         </div>
     </div>
 
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <!-- Right column -->
+    <div class="col-sm-6">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/BlackWaterDescription.webp" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Black Water Description
         </div>
     </div>
 </div>
-<br>
 The paper plane art installation had a profound impact on me as to how the messages get lost during transit. A symbolic paper plane thrown from one corner of a square towards the other corner across diagonal, ended up at the bottom of the pit instead of reaching the other corner. Art need not be complex. Art can be an empty box with a paper plane, its your imagination and the message that carries the weight.
 <div class="row mt-3">
     <!-- Left column -->
@@ -236,8 +238,6 @@ The paper plane art installation had a profound impact on me as to how the messa
         </div>
     </div>
 </div>
-<br>
-
 Visiting museums also highlighted Taiwan's investment in public education. These institutions were designed not merely as attractions but as resources for lifelong learning.
 <div class="row mt-3">
     <div class="col-md-6">
@@ -254,7 +254,6 @@ Visiting museums also highlighted Taiwan's investment in public education. These
         </div>
     </div>
 </div>
-<br>
 
 
 # Earthquake Museum: Understanding Taiwan's Resilience
@@ -268,8 +267,6 @@ The Earthquake Museum was one of the most thought-provoking destinations I visit
 <div class="caption">
     Earthquake Museum entrance.
 </div>
-<br>
-
 Taiwan is located in a region where tectonic activity is a natural part of life. The museum explains how earthquakes occur, how communities prepare for them, and how engineering practices continue evolving to improve safety. As someone fascinated by science and engineering, I found the exhibits incredibly informative.
 
 One of the most striking aspects of the museum was seeing preserved structures that had experienced significant earthquake damage. Reading statistics in a textbook is one thing; standing next to physical evidence of nature's power creates a completely different perspective. The displays helped visitors understand both the destructive force of earthquakes and the resilience required to recover from them.
@@ -281,8 +278,6 @@ One of the most striking aspects of the museum was seeing preserved structures t
 <div class="caption">
     Earthquake Frozen In Time.
 </div>
-<br>
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/EarthquakeInformation.webp" class="img-fluid rounded z-depth-1" %}
@@ -291,8 +286,6 @@ One of the most striking aspects of the museum was seeing preserved structures t
 <div class="caption">
     Earthquake Information.
 </div>
-<br>
-
 Interactive exhibits demonstrated geological concepts in a way that was easy to understand. Visitors could explore seismic activity, building design principles, and emergency preparedness strategies through hands-on experiences. The educational approach ensured that complex scientific information remained accessible.
 
 Beyond the science, the museum also highlighted stories of recovery and community cooperation. These stories revealed how societies respond to difficult challenges and rebuild stronger than before.
@@ -322,7 +315,6 @@ What impressed me most was the emphasis on conservation and environmental awaren
         </div>
     </div>
 </div>
-<br>
 
 <div class="row mt-3">
     <!-- Left column: 2 rows -->
@@ -352,8 +344,6 @@ What impressed me most was the emphasis on conservation and environmental awaren
         </div>
     </div>
 </div>
-<br>
-
 Families with children appeared especially engaged. Interactive displays encouraged learning through curiosity and exploration. It was encouraging to see educational institutions presenting science in a way that remained accessible to visitors of all ages.
 
 The combination of entertainment and education made the visit memorable. Beyond simply viewing aquatic animals, I left with a deeper appreciation for marine biodiversity and the importance of environmental stewardship. It was a refreshing reminder that travel can expand our understanding of the natural world while also providing moments of wonder and discovery.
@@ -361,7 +351,8 @@ The combination of entertainment and education made the visit memorable. Beyond 
 
 # Rainbow Village
 
-Rainbow Village, never knew such thing existed. Before visiting, I had seen photographs online and assumed it would simply be a colorful tourist attraction. What I discovered instead was a place with a remarkable story about creativity, resilience, and community preservation.  The village is famous for its vibrant walls covered in colorful paintings, animals, cartoon characters, flowers, and imaginative patterns. Every corner seemed to offer a new combination of colors and artwork. <div class="row mt-3">
+Rainbow Village, never knew such thing existed. Before visiting, I had seen photographs online and assumed it would simply be a colorful tourist attraction. What I discovered instead was a place with a remarkable story about creativity, resilience, and community preservation.  The village is famous for its vibrant walls covered in colorful paintings, animals, cartoon characters, flowers, and imaginative patterns. Every corner seemed to offer a new combination of colors and artwork.
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/Rainbow.webp" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -369,8 +360,6 @@ Rainbow Village, never knew such thing existed. Before visiting, I had seen phot
 <div class="caption">
     Rainbow
 </div>
-<br>
-
 What made the destination even more meaningful was learning about its history. The paintings were originally created by Huang Yung-Fu, often known as "Grandpa Rainbow," whose artwork attracted public attention and helped preserve the neighborhood from demolition. Knowing this history transformed the experience from simple sightseeing into an appreciation of how art can protect culture and community identity.
 
 Walking through the narrow pathways, I noticed visitors spending time not only taking photographs but also carefully examining individual paintings and decorative details. The cheerful atmosphere was contagious. Families, students, and tourists from different countries all seemed genuinely happy to be there.
@@ -383,8 +372,6 @@ Rainbow Village reminded me that memorable travel experiences do not always requ
 Even before stepping inside the National Taichung Theatre, the building felt extraordinary.
 
 Its flowing shapes and unconventional design challenged traditional expectations of architecture. Rather than relying on straight lines and rigid geometry, the structure appeared almost organic, as if carved by natural forces. The interior was equally impressive. Spaces connected seamlessly, creating an environment that encouraged exploration. Light entered through carefully designed openings, producing a constantly changing visual experience throughout the day.
-
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/NationalTaichungTheatre.webp" class="img-fluid rounded z-depth-1" %}
@@ -393,7 +380,6 @@ Its flowing shapes and unconventional design challenged traditional expectations
 <div class="caption">
     National Taichung Theatre
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -410,8 +396,6 @@ Its flowing shapes and unconventional design challenged traditional expectations
         </div>
     </div>
 </div>
-<br>
-
 What fascinated me most was how the building itself became an attraction independent of the performances it hosts. Architecture transformed into artistic expression. The theatre demonstrated how Taiwan embraces modern design while still maintaining a strong cultural identity.
 
 
@@ -454,7 +438,6 @@ The photographs placed throughout this blog will preserve visual memories of the
         </div>
     </div>
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -464,7 +447,6 @@ The photographs placed throughout this blog will preserve visual memories of the
 <div class="caption">
     Windmills at Gaomei wetlands.
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -474,7 +456,6 @@ The photographs placed throughout this blog will preserve visual memories of the
 <div class="caption">
     Apologetic shop (MAFI means to apologize in Hindi).
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -484,7 +465,6 @@ The photographs placed throughout this blog will preserve visual memories of the
 <div class="caption">
     The GOAT!
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -494,7 +474,6 @@ The photographs placed throughout this blog will preserve visual memories of the
 <div class="caption">
     My home for 1 month.
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -504,7 +483,6 @@ The photographs placed throughout this blog will preserve visual memories of the
 <div class="caption">
     Few souveniors from Taichung Aquarium for my daughter.
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-md-6">
@@ -515,13 +493,12 @@ The photographs placed throughout this blog will preserve visual memories of the
     </div>
 
     <div class="col-md-6">
-        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/LakeRopeway.webp" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/blogpost_2026_TaiwanTravel/compressed_webp/LakeRopewayPhoto.webp" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Sun Moon Lake Ropeway photo from the inside of the ropeway.
         </div>
     </div>
 </div>
-<br>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
